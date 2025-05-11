@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![404hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=404hannah&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404hannah)](https://github.com/404hannah/github-readme-stats)
